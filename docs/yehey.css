@@ -1,0 +1,17 @@
+.card{
+    position: relative;
+    width: 250px;
+    height: 180px;
+    background: #fff;
+    border-radius: 5px;
+    display: grid;
+    place-items: center;
+    transition: 1s;
+}
+.card .text{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 28px;
+    text-align: center;
+    line-height: 25px;
+    color: #0c0c0c;
+}
